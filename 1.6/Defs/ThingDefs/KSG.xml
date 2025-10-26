@@ -18,7 +18,7 @@
 
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>CE_Gun_KSG</defName>
-		<label>Combination Shotgun</label>
+		<label>combination shotgun</label>
 		<description>Ancient pump shotgun with two tubes for shells, allowing the user to alternate ammo types without needing to reload.</description>
 		<graphicData>
 			<texPath>Things/Weapons/KSG</texPath>
