@@ -5,7 +5,7 @@
 
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>CE_Gun_Savage_TwentyFourHundred</defName>
-		<label>Savage 2400</label>
+		<label>Survival Rifle</label>
 		<description>Ancient hunting weapon with barrels for firing both high-powered rifle rounds and shotgun shells.</description>
 		<graphicData>
 			<texPath>Things/Weapons/Savage2400</texPath>
