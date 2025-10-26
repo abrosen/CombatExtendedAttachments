@@ -5,7 +5,7 @@
 
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>CE_Gun_TP_EightyTwo</defName>
-		<label>Survival Pistol</label>
+		<label>survival pistol</label>
 		<description>Ancient survival weapon with two barrels capable of firing shotgun shells and a third chambered for an intermediate rifle cartridge.</description>
 		<graphicData>
 			<texPath>Things/Weapons/TP-82</texPath>
