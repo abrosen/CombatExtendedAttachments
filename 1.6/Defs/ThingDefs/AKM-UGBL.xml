@@ -5,7 +5,7 @@
 
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>CE_Gun_AKMGL</defName>
-		<label>Grenadier Service Rifle</label>
+		<label>grenadier service rifle</label>
 		<description>Ancient military weapon chambered for an intermediate cartridge with an underbarrel 40mm grenade launcher. The simple design makes it easy to assemble and highly reliable.</description>
 		<graphicData>
 			<texPath>Things/Weapons/AKM_GL</texPath>
